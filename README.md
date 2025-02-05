@@ -39,6 +39,4 @@
   <li>Press <b>Ctrl + C</b> to stop the program execution.</li>
 </ul>
 
-=======
-# bioLens
 
