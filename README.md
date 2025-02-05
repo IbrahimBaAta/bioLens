@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BioLens
 
 <h2>Objective :</h2>
@@ -39,3 +40,6 @@
   <li>Press <b>Ctrl + C</b> to stop the program execution.</li>
 </ul>
 
+=======
+# bioLens
+>>>>>>> 4a4e5f6b68fac2308b82bb46c3428142779dd757
